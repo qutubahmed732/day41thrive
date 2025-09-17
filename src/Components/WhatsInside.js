@@ -16,7 +16,7 @@ function WhatsInside() {
                         {/* <!-- CAPTURE --> */}
                         <div className="bg-white/10 rounded-lg p-6 shadow-lg backdrop-blur">
                             <div className="flex items-center mb-4">
-                                <div className="bg-blue-500 text-white rounded-full w-8 h-8 flex items-center justify-center font-bold mr-3"><Pin className='size-5' /></div>
+                                {/* <div className="bg-blue-500 text-white rounded-full w-8 h-8 flex items-center justify-center font-bold mr-3"><Pin className='size-5' /></div> */}
                                 <h3 className="text-xl font-bold text-white">CAPTURE - Marketing & Lead Generation</h3>
                             </div>
                             <ul className="space-y-2 text-white/90">
@@ -30,7 +30,7 @@ function WhatsInside() {
                         {/* <!-- CONVERT --> */}
                         <div className="bg-white/10 rounded-lg p-6 shadow-lg backdrop-blur">
                             <div className="flex items-center mb-4">
-                                <div className="bg-green-500 text-white rounded-full w-8 h-8 flex items-center justify-center font-bold mr-3"><Pin className='size-5' /></div>
+                                {/* <div className="bg-green-500 text-white rounded-full w-8 h-8 flex items-center justify-center font-bold mr-3"><Pin className='size-5' /></div> */}
                                 <h3 className="text-xl font-bold text-white">CONVERT - Sales Process & Close Strategy</h3>
                             </div>
                             <ul className="space-y-2 text-white/90">
@@ -44,7 +44,7 @@ function WhatsInside() {
                         {/* <!-- CREATE --> */}
                         <div className="bg-white/10 rounded-lg p-6 shadow-lg backdrop-blur">
                             <div className="flex items-center mb-4">
-                                <div className="bg-orange-500 text-white rounded-full w-8 h-8 flex items-center justify-center font-bold mr-3"><Pin className='size-5' /></div>
+                                {/* <div className="bg-orange-500 text-white rounded-full w-8 h-8 flex items-center justify-center font-bold mr-3"><Pin className='size-5' /></div> */}
                                 <h3 className="text-xl font-bold text-white">CREATE - Production & Project Execution</h3>
                             </div>
                             <ul className="space-y-2 text-white/90">
@@ -58,7 +58,7 @@ function WhatsInside() {
                         {/* <!-- CONTROL --> */}
                         <div className="bg-white/10 rounded-lg p-6 shadow-lg backdrop-blur">
                             <div className="flex items-center mb-4">
-                                <div className="bg-purple-500 text-white rounded-full w-8 h-8 flex items-center justify-center font-bold mr-3"><Pin className='size-5' /></div>
+                                {/* <div className="bg-purple-500 text-white rounded-full w-8 h-8 flex items-center justify-center font-bold mr-3"><Pin className='size-5' /></div> */}
                                 <h3 className="text-xl font-bold text-white">CONTROL - Admin, Finance & Operational Rhythm</h3>
                             </div>
                             <ul className="space-y-2 text-white/90">
@@ -72,7 +72,7 @@ function WhatsInside() {
                         {/* <!-- CULTURE --> */}
                         <div className="bg-white/10 rounded-lg p-6 shadow-lg backdrop-blur md:col-span-2">
                             <div className="flex items-center mb-4">
-                                <div className="bg-red-500 text-white rounded-full w-8 h-8 flex items-center justify-center font-bold mr-3"><Pin className='size-5' />  </div>
+                                {/* <div className="bg-red-500 text-white rounded-full w-8 h-8 flex items-center justify-center font-bold mr-3"><Pin className='size-5' />  </div> */}
                                 <h3 className="text-xl font-bold text-white">CULTURE - Leadership, Team Building & Accountability</h3>
                             </div>
                             <div className="grid md:grid-cols-1 gap-4">
