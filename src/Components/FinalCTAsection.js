@@ -2,7 +2,7 @@ import React from 'react'
 
 function FinalCTAsection() {
   return (
-    <section className="py-16 bg-gradient-to-br from-gray-900 to-gray-800 text-white">
+    <section className="pt-16 pb-5 bg-gradient-to-br from-gray-900 to-gray-800 text-white">
         <div className="container mx-auto px-6">
             <div className="max-w-4xl mx-auto text-center">
                 <h2 className="text-3xl md:text-4xl font-bold mb-8">

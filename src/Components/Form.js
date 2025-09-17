@@ -2,14 +2,14 @@ import React from 'react'
 
 function Form() {
   return (
-    <section id="form" className="py-16 bg-[#020001] text-white">
+    <section id="form" className="py-16 bg-white text-black">
       <div className="container mx-auto px-6">
         <div className="max-w-2xl mx-auto">
           <h2 className="text-3xl md:text-4xl font-bold text-center mb-8">
             Get Instant Access to the Complete RoofOps41 System
           </h2>
 
-          <form className="bg-white rounded-lg p-8 text-gray-900">
+          <form className="bg-white/10 rounded-lg p-8 text-gray-900 border">
             <div className="grid md:grid-cols-2 gap-3 md:gap-6 mb-6">
               <div>
                 <label className="block text-sm font-medium mb-2" for="firstName">First Name *</label>
