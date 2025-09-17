@@ -2,10 +2,11 @@ import React from 'react'
 import bg from "../images/hero-bg.jpg"
 
 function CTAsection() {
+    // bg-gradient-to-b from-black/70 via-[#34071e]/70 to-black/80
   return (
     <section className="relative overflow-hidden py-16 text-white bg-cover bg-center bg-no-repeat" style={{ backgroundImage: `url(${bg})` }}>
-        <div className="absolute inset-0 bg-gradient-to-b from-black/70 via-[#34071e]/70 to-black/80"></div>
-        <div className="absolute -top-1/2 left-1/2 -translate-x-1/2 w-[120vw] h-[120vw]"></div>
+        <div className="absolute inset-0 bg-white/10 backdrop-blur"></div>
+        {/* <div className="absolute -top-1/2 left-1/2 -translate-x-1/2 w-[120vw] h-[120vw]"></div> */}
         <div className="container mx-auto px-6 text-center relative z-10">
             <h2 className="text-3xl md:text-4xl font-bold mb-6">
                 Ready to Stop Guessing and Start Growing With Purpose?

@@ -4,7 +4,7 @@ import { Pin, Gift  } from "lucide-react"
 
 function WhatsInside() {
     return (
-        <section className="relative py-16 bg-gradient-to-b from-black/70 via-[#34071e]/70 to-black/80">
+        <section className="relative py-16 bg-gradient-to-b from-black/10 via-[#34071e]/70 to-black/10">
             {/* <div className="absolute inset-0 bg-gradient-to-b from-black/70 via-[#34071e]/70 to-black/80"></div> */}
             <div className="container mx-auto px-6">
                 <div className="max-w-5xl mx-auto">
