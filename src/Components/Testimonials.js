@@ -9,7 +9,7 @@ function Testimonials() {
                     <h2 className="text-3xl font-bold text-center mb-12 text-gray-900">Real Results from Real Roofing Companies</h2>
 
                     <div className="grid md:grid-cols-3 gap-8">
-                        <div className="bg-gray-50 rounded-lg p-6">
+                        <div className="bg-gray-100 rounded-lg p-6">
                             <div className="text-yellow-400 text-2xl mb-4 flex gap-1">
                                 <Star className='fill-yellow-400' />
                                 <Star className='fill-yellow-400' />
@@ -24,7 +24,7 @@ function Testimonials() {
                             <p className="text-sm text-gray-600">(Scaled from $4M to $8M in 18 months)</p>
                         </div>
 
-                        <div className="bg-gray-50 rounded-lg p-6">
+                        <div className="bg-gray-100 rounded-lg p-6">
                             <div className="text-yellow-400 text-2xl mb-4 flex gap-1">
                                 <Star className='fill-yellow-400' />
                                 <Star className='fill-yellow-400' />
@@ -39,7 +39,7 @@ function Testimonials() {
                             <p className="text-sm text-gray-600">(Added $2M in annual revenue)</p>
                         </div>
 
-                        <div className="bg-gray-50 rounded-lg p-6">
+                        <div className="bg-gray-100 rounded-lg p-6">
                             <div className="text-yellow-400 text-2xl mb-4 flex gap-1">
                                 <Star className='fill-yellow-400' />
                                 <Star className='fill-yellow-400' />

@@ -88,7 +88,7 @@ function WhatsInside() {
 
                     {/* <!-- Bonus Materials --> */}
                     <div className="mt-8 bg-yellow-50 border-2 border-yellow-200 rounded-lg p-6">
-                        <h3 className="text-xl font-bold text-gray-900 mb-4"><Gift className='text-yellow-500' /> BONUS MATERIALS:</h3>
+                        <h3 className="text-xl font-bold text-gray-900 mb-4"><Gift className='text-yellow-500 size-8' /> BONUS MATERIALS:</h3>
                         <ul className="grid md:grid-cols-3 gap-4 text-gray-700">
                             <li>• One-Page Plan (OPP) templates for 30/90/365-day strategic planning</li>
                             <li>• P&L Forecast Builder to make decisions with data, not gut feelings</li>
