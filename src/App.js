@@ -3,7 +3,7 @@ import Storysection from "./Components/Storysection";
 import CTAsection from "./Components/CTAsection";
 import Socialproof from "./Components/Socialproof";
 import WhatsInside from "./Components/WhatsInside";
-import Form from "./Components/Form";
+// import Form from "./Components/Form";
 import Testimonials from "./Components/Testimonials";
 import FinalCTAsection from "./Components/FinalCTAsection";
 
@@ -24,7 +24,7 @@ function App() {
       <CTAsection />
       <Socialproof />
       <WhatsInside />
-      <Form />
+      {/* <Form /> */}
       <Testimonials />
       <FinalCTAsection />
     </>

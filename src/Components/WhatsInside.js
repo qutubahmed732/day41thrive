@@ -1,5 +1,5 @@
 import React from 'react'
-import bg from "../images/hero-bg.jpg"
+// import bg from "../images/hero-bg.jpg"
 import { Pin, Gift  } from "lucide-react"
 
 function WhatsInside() {
