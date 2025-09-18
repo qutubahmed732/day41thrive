@@ -57,11 +57,11 @@ function Testimonials() {
         </div>
       </div>
 
-      <div className='py-16 px-7 md:px-0 bg-black bg-gradient-to-b from-black/10 via-[#34071e]/90 to-black/10'>
+      <div className='py-16 px-7 md:px-0 bg-black bg-gradient-to-b from-black/10 via-[#34071e]/70 to-black/10'>
         <div className='max-w-7xl relative mx-auto grid grid-cols-1 md:grid-cols-3 gap-10'>
 
           <div className="group relative">
-            <div className="glassmorphism-card hover:animate-pulse-scale relative h-full overflow-hidden rounded-2xl border border-white/20 bg-white/10 p-6 shadow-xl backdrop-blur-md transition-all duration-300 hover:scale-105 hover:border-white/30 hover:bg-white/15 hover:shadow-2xl">
+            <div className="glassmorphism-card relative h-full overflow-hidden rounded-2xl border border-white/20 bg-white/10 p-6 shadow-xl backdrop-blur-md transition-all duration-300 hover:scale-105 hover:border-white/30 hover:bg-white/15 hover:shadow-2xl">
               <div className="absolute inset-0 bg-gradient-to-br from-white/5 to-transparent opacity-50"></div>
               <div className="relative z-10 flex flex-col items-center text-center">
                 <div className="relative mb-4 overflow-hidden rounded-full border-2 border-white/20 shadow-lg backdrop-blur-sm transition-all duration-300 group-hover:border-white/40 group-hover:shadow-xl">
@@ -77,7 +77,7 @@ function Testimonials() {
           </div>
 
           <div className="group relative">
-            <div className="glassmorphism-card hover:animate-pulse-scale relative h-full overflow-hidden rounded-2xl border border-white/20 bg-white/10 p-6 shadow-xl backdrop-blur-md transition-all duration-300 hover:scale-105 hover:border-white/30 hover:bg-white/15 hover:shadow-2xl">
+            <div className="glassmorphism-card relative h-full overflow-hidden rounded-2xl border border-white/20 bg-white/10 p-6 shadow-xl backdrop-blur-md transition-all duration-300 hover:scale-105 hover:border-white/30 hover:bg-white/15 hover:shadow-2xl">
               <div className="absolute inset-0 bg-gradient-to-br from-white/5 to-transparent opacity-50"></div>
               <div className="relative z-10 flex flex-col items-center text-center">
                 <div className="relative mb-4 overflow-hidden rounded-full border-2 border-white/20 shadow-lg backdrop-blur-sm transition-all duration-300 group-hover:border-white/40 group-hover:shadow-xl">
@@ -94,7 +94,7 @@ function Testimonials() {
           </div>
 
           <div className="group relative">
-            <div className="glassmorphism-card hover:animate-pulse-scale relative h-full overflow-hidden rounded-2xl border border-white/20 bg-white/10 p-6 shadow-xl backdrop-blur-md transition-all duration-300 hover:scale-105 hover:border-white/30 hover:bg-white/15 hover:shadow-2xl">
+            <div className="glassmorphism-card relative h-full overflow-hidden rounded-2xl border border-white/20 bg-white/10 p-6 shadow-xl backdrop-blur-md transition-all duration-300 hover:scale-105 hover:border-white/30 hover:bg-white/15 hover:shadow-2xl">
               <div className="absolute inset-0 bg-gradient-to-br from-white/5 to-transparent opacity-50"></div>
               <div className="relative z-10 flex flex-col items-center text-center">
                 <div className="relative mb-4 overflow-hidden rounded-full border-2 border-white/20 shadow-lg backdrop-blur-sm transition-all duration-300 group-hover:border-white/40 group-hover:shadow-xl">
