@@ -17,15 +17,17 @@
     0%,
     100% {
         transform: scale(1);
+        opacity: 0.5;
     }
-
+    
     50% {
         transform: scale(1.05);
+        opacity: 1;
     }
 }
 
 @layer utilities {
     .animate-pulse-scale {
-        animation: pulse-scale 1s infinite;
+        animation: pulse-scale 2s infinite;
     }
 }
